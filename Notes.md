@@ -1,6 +1,5 @@
-## About
+## Canal
 
-This repository is forked from ONLYOFFICE/Docker-CommunityServer, we have the following modifications are provided
+### support version
+Canal是否支持MySQL8.0[https://github.com/alibaba/canal/wiki/AdminGuide]和以上版本没有明确说明
 
-* replace README.md
-* add README-zh.md, CHANGELOG.md, Note.md, License.md, docker-compose.yml,.env, src, .github folder
